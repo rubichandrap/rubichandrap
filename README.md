@@ -60,7 +60,7 @@ I ❤️ Front-End Development
         <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗡𝗲𝘁𝗹𝗶𝗳𝘆</span><br><br><br>
+        <span>Jest</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/jest.svg">
       </td>
     </tr>
