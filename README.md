@@ -24,7 +24,7 @@ I ❤️ Front-End Development
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗩𝘂𝗲</span><br><br><br>
+        <span>React</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
     </tr>
