@@ -6,7 +6,7 @@ I ❤️ Front-End Development
 
 :vulcan_salute: I put mostly of my focus on web development with ReactJS and its rich environment.
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
 
 <table>
   <tbody>
