@@ -1,78 +1,53 @@
-# Hello I'm Rubi
+# Hey, I'm Rubi
 
-I ❤️ Front-End Development
+Just a dev who loves building cool stuff with TypeScript. I mess around with frontend, backend, and whatever looks fun.
 
-:computer: Front-End Engineer currently based on Jakarta, Indonesia. 
+I like clean code, smooth UIs, and systems that just work.
 
-:vulcan_salute: I put mostly of my focus on web development with ReactJS and its rich environment.
+## My Current Stack
 
-## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
+```ts
+const stack = [
+  "TypeScript",
+  "React",
+  "Next.js",
+  "NestJS",
+  "Express",
+  "TailwindCSS",
+  "gRPC",
+  "RabbitMQ",
+  "Kafka",
+  "PostgreSQL",
+  "MongoDB",
+  "Go",
+  "Python"
+];
+```
+
+## Tools I Use a Lot
 
 <table>
   <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>React</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
-      </td>
+    <tr>
+      <td align="center"><img height="40px" src="https://cdn.svgporn.com/logos/react.svg"><br/>React</td>
+      <td align="center"><img height="40px" src="https://cdn.svgporn.com/logos/nextjs-icon.svg" style="filter: invert(1);"><br/>Next.js</td>
+      <td align="center"><img height="40px" src="https://cdn.svgporn.com/logos/nestjs.svg"><br/>NestJS</td>
+      <td align="center"><img height="40px" src="https://cdn.svgporn.com/logos/express.svg" style="filter: invert(1);"><br/>Express</td>
     </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗪𝗲𝗯𝗽𝗮𝗰𝗸</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/webpack.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗘𝘀𝗹𝗶𝗻𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
+    <tr>
+      <td align="center"><img height="40px" src="https://cdn.svgporn.com/logos/typescript-icon.svg"><br/>TypeScript</td>
+      <td align="center"><img height="40px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg"><br/>TailwindCSS</td>
+      <td align="center"><img height="40px" src="https://cdn.svgporn.com/logos/grpc.svg"><br/>gRPC</td>
+      <td align="center"><img height="40px" src="https://cdn.svgporn.com/logos/git-icon.svg"><br/>Git</td>
     </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗟𝗲𝘀𝘀</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/less.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Jest</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/jest.svg">
-      </td>
+    <tr>
+      <td align="center"><img height="40px" src="https://cdn.svgporn.com/logos/rabbitmq-icon.svg"><br/>RabbitMQ</td>
+      <td align="center"><img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Apache_Kafka_logo.svg" style="filter: invert(1);"><br/>Kafka</td>
+      <td align="center"><img height="40px" src="https://cdn.svgporn.com/logos/postgresql.svg"><br/>PostgreSQL</td>
+      <td align="center"><img height="40px" src="https://cdn.svgporn.com/logos/mongodb-icon.svg"><br/>MongoDB</td>
     </tr>
   </tbody>
 </table>
+---
 
-
-<!--
-**rubichandrap/rubichandrap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on PT. Artha Rakhasa as Frontend Developer
-- 🌱 I’m currently learning ASP.Net Core
--->
+Thanks for stopping by. I build, break, and ship things. Sometimes all at once.
