@@ -48,6 +48,5 @@ const stack = [
     </tr>
   </tbody>
 </table>
----
 
 Thanks for stopping by. I build, break, and ship things. Sometimes all at once.
