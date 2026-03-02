@@ -1,6 +1,6 @@
 # Hey, I'm Rubi
 
-Just a dev who loves building cool stuff with TypeScript. I mess around with frontend, backend, and whatever looks fun.
+Just a dev who loves building cool stuff. I mess around with frontend, backend, and whatever looks fun.
 
 I like clean code, smooth UIs, and systems that just work.
 
