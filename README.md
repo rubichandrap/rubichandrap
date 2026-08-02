@@ -1,43 +1,33 @@
 <div align="center">
 
-```
+<pre>
 ╭──────────────────────────────────────────────────────────╮
-│  ●  ●  ●            rubi@rubichandrap — zsh          │
+│  ●  ●  ●            rubi@rubichandrap — zsh              │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
 │   Hey, I'm Rubi                                          │
 │   Software Engineer · Jakarta, Indonesia                 │
 │                                                          │
 ╰──────────────────────────────────────────────────────────╯
-```
 
-<pre>
 <span style="color:#2f9e44">$</span> <span style="color:#1f6feb">whoami</span>
 Software Engineer · Jakarta, Indonesia
 
 <span style="color:#2f9e44">$</span> <span style="color:#1f6feb">cat about.txt</span>
 <span style="color:#6e7781"># 5+ years full-stack. TypeScript-first.</span>
 I like clean code, smooth UIs, and systems that just work.
-</pre>
 
-```
 ──────────────────────────  GITHUB STATS  ──────────────────────────
-```
 
-<pre>
 <span style="color:#2f9e44">$</span> <span style="color:#1f6feb">./stats.sh</span>
 <span style="color:#6e7781"># live numbers, no external badges</span>
 
 <span style="color:#b58900">repos</span>     : 34   <span style="color:#b58900">stars</span>     :      12
 <span style="color:#b58900">followers</span> : 19   <span style="color:#b58900">following</span> :      16
 <span style="color:#b58900">pinned</span>    :  4   <span style="color:#b58900">code</span>      : ~2.7 MB
-</pre>
 
-```
 ────────────────────────  TOP LANGUAGES  ───────────────────────────
-```
 
-<pre>
 <span style="color:#2f9e44">$</span> <span style="color:#1f6feb">./langs.sh --by-bytes</span>
 <span style="color:#6e7781"># share of code across all repos</span>
 
@@ -52,13 +42,9 @@ Go          <span style="color:#6f42c1">█░░░░░░░░░░░░�
 C#          <span style="color:#6f42c1">█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</span>    1%
 Rust        <span style="color:#6f42c1">█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</span>    1%
 <span style="color:#6e7781"># + CSS, SCSS, Astro, Shell, Dockerfile, Vue, Dart</span>
-</pre>
 
-```
 ──────────────────────────  TECH STACK  ────────────────────────────
-```
 
-<pre>
 <span style="color:#2f9e44">$</span> <span style="color:#1f6feb">ls ~/stack</span>
 <span style="color:#b58900">frontend/</span>  <span style="color:#b58900">backend/</span>  <span style="color:#b58900">data/</span>  <span style="color:#b58900">devops/</span>  <span style="color:#b58900">web/</span>
 
@@ -76,25 +62,17 @@ Docker · Git · AWS · Vercel · CI/CD · Microservices
 
 <span style="color:#2f9e44">$</span> <span style="color:#1f6feb">cat stack/web.txt</span>
 OAuth · JWT · WebSockets
-</pre>
 
-```
 ──────────────────────────  TOOLS I USE  ───────────────────────────
-```
 
-<pre>
 <span style="color:#2f9e44">$</span> <span style="color:#1f6feb">./tools --list</span>
 
 React        Next.js      NestJS       Express
 TypeScript   TailwindCSS  gRPC         Git
 RabbitMQ     Kafka        PostgreSQL   MongoDB
-</pre>
 
-```
 ────────────────────────────  CONTACT  ─────────────────────────────
-```
 
-<pre>
 <span style="color:#2f9e44">$</span> <span style="color:#1f6feb">ping contact</span>
 
 <span style="color:#1f6feb">website</span>  → https://rubichandrap.github.io/my-blog/
@@ -103,16 +81,12 @@ RabbitMQ     Kafka        PostgreSQL   MongoDB
 <span style="color:#1f6feb">email</span>    → rubichandrap@gmail.com
 
 <span style="color:#2f9e44">[✓] 4 hosts reachable</span>
-</pre>
 
-<pre>
 <span style="color:#2f9e44">$</span> <span style="color:#1f6feb">exit</span>
 Thanks for stopping by. I build, break, and ship things.
 Sometimes all at once.
-</pre>
 
-```
 ▊
-```
+</pre>
 
 </div>
