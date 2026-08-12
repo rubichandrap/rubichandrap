@@ -1,88 +1,131 @@
 <div align="center">
 
-<pre>
-╭─────────────────────────────────────────────────────────╮
-│  ●  ●  ●            rubi@rubichandrap — zsh             │
-│  ── ubuntu on wsl2 · 82×30 · 256-color                  │
-├─────────────────────────────────────────────────────────┤
-│                                                         │
-│             ██████  ██   ██ ██████  ██████              │
-│             ██   ██ ██   ██ ██   ██   ██                │
-│             ██████  ██   ██ ██████    ██                │
-│             ██  ██  ██   ██ ██   ██   ██                │
-│             ██   ██ ██████  ██████  ██████              │
-│                                                         │
-│         software engineer · jakarta, indonesia          │
-│                                                         │
-╰─────────────────────────────────────────────────────────╯
+<img src="https://raw.githubusercontent.com/rubichandrap/rubichandrap/main/assets/hero.svg" alt="RUBI — software engineer · jakarta, indonesia" width="100%" style="max-width: 780px; border-radius: 14px;" />
 
-<span style="color:#2f9e44">$</span> <span style="color:#1f6feb">whoami</span>
-rubi — full-stack engineer, TypeScript-first.
+<br />
 
-<span style="color:#2f9e44">$</span> <span style="color:#1f6feb">cat ~/.bio</span>
-It depends.
+<div style="max-width: 780px; margin: 0 auto; background: #0d1117; border: 1px solid #30363d; border-radius: 16px; padding: 26px 28px 18px; color: #e6edf3; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; text-align: left;">
 
-<span style="color:#2f9e44">$</span> <span style="color:#1f6feb">cat ~/about.txt</span>
-<span style="color:#6e7781"># 5+ years. web apps that survive contact with real users.</span>
-Frontends that feel fast, backends that stay up, and
-automation that does the boring work.
+<p style="margin: 0; font-size: 16px; color: #e6edf3;">TypeScript-first full-stack engineer.</p>
+<p style="margin: 8px 0 0; font-size: 14px; color: #8b949e;">5+ years of web apps that survive contact with real users. Frontends that feel fast, backends that stay up, automation that does the boring work.</p>
 
-──────────────────────────  GITHUB STATS  ──────────────────────────
+<h2 style="margin: 26px 0 10px; font-size: 13px; letter-spacing: 2px; color: #8b949e;"><span style="color: #3fb950;">●</span> STATS — live, no badges, auto-updated daily</h2>
 
-<span style="color:#2f9e44">$</span> <span style="color:#1f6feb">./stats.sh</span>
-<span style="color:#6e7781"># live numbers, no external badges — regenerated daily</span>
+<table role="presentation" style="width: 100%; border-collapse: separate; border-spacing: 6px; margin: 0 -6px;">
+<!-- STATS:START -->
+<tr>
+<td align="center" style="width: 25%; background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 12px 6px;">
+<div style="font-size: 24px; font-weight: 800; color: #e6edf3; line-height: 1.2;">36</div>
+<div style="font-size: 11px; letter-spacing: 1px; color: #8b949e;">REPOS</div>
+<div style="font-size: 11px; color: #8b949e;">15 own</div>
+</td>
+<td align="center" style="width: 25%; background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 12px 6px;">
+<div style="font-size: 24px; font-weight: 800; color: #e6edf3; line-height: 1.2;">12</div>
+<div style="font-size: 11px; letter-spacing: 1px; color: #8b949e;">STARS</div>
+</td>
+<td align="center" style="width: 25%; background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 12px 6px;">
+<div style="font-size: 24px; font-weight: 800; color: #e6edf3; line-height: 1.2;">19</div>
+<div style="font-size: 11px; letter-spacing: 1px; color: #8b949e;">FOLLOWERS</div>
+</td>
+<td align="center" style="width: 25%; background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 12px 6px;">
+<div style="font-size: 24px; font-weight: 800; color: #e6edf3; line-height: 1.2;">16</div>
+<div style="font-size: 11px; letter-spacing: 1px; color: #8b949e;">FOLLOWING</div>
+</td>
+</tr>
+<!-- synced: 2026-08-12 08:30 UTC -->
+<!-- STATS:END -->
+</table>
 
-<span style="color:#6e7781"># ── auto-stats:start ──</span>
-<span style="color:#b58900">repos</span>      : 36 (15 own)   <span style="color:#b58900">stars</span>     :    12
-<span style="color:#b58900">followers</span>  : 19            <span style="color:#b58900">following</span> :  16
+<h2 style="margin: 28px 0 10px; font-size: 13px; letter-spacing: 2px; color: #8b949e;">● PROJECTS</h2>
 
-<span style="color:#2f9e44">$</span> <span style="color:#1f6feb">./langs.sh</span>
-<span style="color:#6e7781"># primary language across my own repos</span>
-TypeScript  <span style="color:#6f42c1">██████████████████████░░░░░░░░░░░░</span>   64%
-Go          <span style="color:#6f42c1">█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</span>   14%
-MDX         <span style="color:#6f42c1">██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</span>    7%
-Rust        <span style="color:#6f42c1">██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</span>    7%
-Blade       <span style="color:#6f42c1">██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</span>    7%
-<span style="color:#6e7781"># synced 2026-08-12 08:20 UTC — .github/workflows/update-stats.yml</span>
-<span style="color:#6e7781"># ── auto-stats:end ──</span>
+<table role="presentation" style="width: 100%; border-collapse: separate; border-spacing: 6px; margin: 0 -6px;">
+<tr>
+<td style="width: 50%; background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 14px 16px; vertical-align: top;">
+<div style="font-family: ui-monospace, 'SF Mono', Consolas, monospace; font-size: 14px;"><a href="https://github.com/rubichandrap/territory-of-indonesia" style="color: #e6edf3; text-decoration: none;">territory-of-indonesia</a></div>
+<div style="margin-top: 6px; font-size: 12px; color: #8b949e;"><span style="color: #00ADD8;">●</span> Go &nbsp;·&nbsp; ★ 10</div>
+<div style="margin-top: 6px; font-size: 13px; color: #c9d1d9;">Indonesia territory data from OSM boundaries</div>
+</td>
+<td style="width: 50%; background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 14px 16px; vertical-align: top;">
+<div style="font-family: ui-monospace, 'SF Mono', Consolas, monospace; font-size: 14px;"><a href="https://github.com/rubichandrap/agentstd" style="color: #e6edf3; text-decoration: none;">agentstd</a></div>
+<div style="margin-top: 6px; font-size: 12px; color: #8b949e;"><span style="color: #3178c6;">●</span> TypeScript</div>
+<div style="margin-top: 6px; font-size: 13px; color: #c9d1d9;">Write agent rules once, sync to .claude / .opencode / more</div>
+</td>
+</tr>
+<tr>
+<td style="width: 50%; background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 14px 16px; vertical-align: top;">
+<div style="font-family: ui-monospace, 'SF Mono', Consolas, monospace; font-size: 14px;"><a href="https://github.com/rubichandrap/openclaw-teams-bridge" style="color: #e6edf3; text-decoration: none;">openclaw-teams-bridge</a></div>
+<div style="margin-top: 6px; font-size: 12px; color: #8b949e;"><span style="color: #3178c6;">●</span> TypeScript</div>
+<div style="margin-top: 6px; font-size: 13px; color: #c9d1d9;">Teams ↔ OpenClaw bridge, no admin or bot registration</div>
+</td>
+<td style="width: 50%; background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 14px 16px; vertical-align: top;">
+<div style="font-family: ui-monospace, 'SF Mono', Consolas, monospace; font-size: 14px;"><a href="https://github.com/rubichandrap/hermes-teams-bridge" style="color: #e6edf3; text-decoration: none;">hermes-teams-bridge</a></div>
+<div style="margin-top: 6px; font-size: 12px; color: #8b949e;"><span style="color: #3178c6;">●</span> TypeScript</div>
+<div style="margin-top: 6px; font-size: 13px; color: #c9d1d9;">Teams ↔ Hermes bridge</div>
+</td>
+</tr>
+<tr>
+<td style="width: 50%; background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 14px 16px; vertical-align: top;">
+<div style="font-family: ui-monospace, 'SF Mono', Consolas, monospace; font-size: 14px;"><a href="https://github.com/rubichandrap/Poyo" style="color: #e6edf3; text-decoration: none;">Poyo</a></div>
+<div style="margin-top: 6px; font-size: 12px; color: #8b949e;"><span style="color: #3178c6;">●</span> TypeScript</div>
+<div style="margin-top: 6px; font-size: 13px; color: #c9d1d9;">Minimal React + .NET 10 MPA starter</div>
+</td>
+<td style="width: 50%; background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 14px 16px; vertical-align: top;">
+<div style="font-family: ui-monospace, 'SF Mono', Consolas, monospace; font-size: 14px;"><a href="https://github.com/rubichandrap/bootcamp" style="color: #e6edf3; text-decoration: none;">bootcamp</a></div>
+<div style="margin-top: 6px; font-size: 12px; color: #8b949e;"><span style="color: #fcb32c;">●</span> MDX</div>
+<div style="margin-top: 6px; font-size: 13px; color: #c9d1d9;">Interactive developer mastery platform (Go · TS · more)</div>
+</td>
+</tr>
+</table>
 
-──────────────────────────  PROJECTS  ─────────────────────────────
+<h2 style="margin: 28px 0 10px; font-size: 13px; letter-spacing: 2px; color: #8b949e;">● STACK</h2>
 
-<span style="color:#2f9e44">$</span> <span style="color:#1f6feb">ls -1 ~/projects</span>
-<span style="color:#1f6feb">territory-of-indonesia/</span>  <span style="color:#6e7781">Go · ★10</span>   Indonesia territory data from OSM boundaries
-<span style="color:#1f6feb">agentstd/</span>                <span style="color:#6e7781">TS</span>        write agent rules once, sync to .claude / .opencode
-<span style="color:#1f6feb">openclaw-teams-bridge/</span>   <span style="color:#6e7781">TS</span>        Teams ↔ OpenClaw bridge, no admin or bot registration
-<span style="color:#1f6feb">hermes-teams-bridge/</span>     <span style="color:#6e7781">TS</span>        Teams ↔ Hermes bridge
-<span style="color:#1f6feb">Poyo/</span>                    <span style="color:#6e7781">TS</span>        minimal React + .NET 10 MPA starter
-<span style="color:#1f6feb">bootcamp/</span>                <span style="color:#6e7781">MDX</span>       interactive dev mastery platform (Go · TS · more)
+<div>
+<span style="display: inline-block; margin: 3px 4px 3px 0; padding: 5px 12px; background: #161b22; border: 1px solid #30363d; border-radius: 999px; font-size: 13px;">TypeScript</span>
+<span style="display: inline-block; margin: 3px 4px 3px 0; padding: 5px 12px; background: #161b22; border: 1px solid #30363d; border-radius: 999px; font-size: 13px;">React</span>
+<span style="display: inline-block; margin: 3px 4px 3px 0; padding: 5px 12px; background: #161b22; border: 1px solid #30363d; border-radius: 999px; font-size: 13px;">Next.js</span>
+<span style="display: inline-block; margin: 3px 4px 3px 0; padding: 5px 12px; background: #161b22; border: 1px solid #30363d; border-radius: 999px; font-size: 13px;">TailwindCSS</span>
+<span style="display: inline-block; margin: 3px 4px 3px 0; padding: 5px 12px; background: #161b22; border: 1px solid #30363d; border-radius: 999px; font-size: 13px;">Vue.js</span>
+<span style="display: inline-block; margin: 3px 4px 3px 0; padding: 5px 12px; background: #161b22; border: 1px solid #30363d; border-radius: 999px; font-size: 13px;">Node.js</span>
+<span style="display: inline-block; margin: 3px 4px 3px 0; padding: 5px 12px; background: #161b22; border: 1px solid #30363d; border-radius: 999px; font-size: 13px;">NestJS</span>
+<span style="display: inline-block; margin: 3px 4px 3px 0; padding: 5px 12px; background: #161b22; border: 1px solid #30363d; border-radius: 999px; font-size: 13px;">Express</span>
+<span style="display: inline-block; margin: 3px 4px 3px 0; padding: 5px 12px; background: #161b22; border: 1px solid #30363d; border-radius: 999px; font-size: 13px;">Go</span>
+<span style="display: inline-block; margin: 3px 4px 3px 0; padding: 5px 12px; background: #161b22; border: 1px solid #30363d; border-radius: 999px; font-size: 13px;">Python</span>
+<span style="display: inline-block; margin: 3px 4px 3px 0; padding: 5px 12px; background: #161b22; border: 1px solid #30363d; border-radius: 999px; font-size: 13px;">PostgreSQL</span>
+<span style="display: inline-block; margin: 3px 4px 3px 0; padding: 5px 12px; background: #161b22; border: 1px solid #30363d; border-radius: 999px; font-size: 13px;">MongoDB</span>
+<span style="display: inline-block; margin: 3px 4px 3px 0; padding: 5px 12px; background: #161b22; border: 1px solid #30363d; border-radius: 999px; font-size: 13px;">RabbitMQ</span>
+<span style="display: inline-block; margin: 3px 4px 3px 0; padding: 5px 12px; background: #161b22; border: 1px solid #30363d; border-radius: 999px; font-size: 13px;">Kafka</span>
+<span style="display: inline-block; margin: 3px 4px 3px 0; padding: 5px 12px; background: #161b22; border: 1px solid #30363d; border-radius: 999px; font-size: 13px;">Docker</span>
+<span style="display: inline-block; margin: 3px 4px 3px 0; padding: 5px 12px; background: #161b22; border: 1px solid #30363d; border-radius: 999px; font-size: 13px;">AWS</span>
+</div>
 
-<span style="color:#2f9e44">$</span> <span style="color:#1f6feb">sudo make me a coffee</span>
-<span style="color:#f85149">sudo: rubi is not in the sudoers file. This incident will be reported.</span>
+<h2 style="margin: 28px 0 10px; font-size: 13px; letter-spacing: 2px; color: #8b949e;">● CONTACT</h2>
 
-──────────────────────────  TECH STACK  ────────────────────────────
+<table role="presentation" style="width: 100%; border-collapse: collapse;">
+<tr>
+<td style="padding: 5px 0; font-size: 14px;"><a href="https://rubichandrap.github.io/my-blog/" style="color: #e8a33d; text-decoration: none;">website</a></td>
+<td align="right" style="padding: 5px 0; font-size: 13px; color: #8b949e;">rubichandrap.github.io/my-blog</td>
+</tr>
+<tr>
+<td style="padding: 5px 0; font-size: 14px;"><a href="https://github.com/rubichandrap" style="color: #e8a33d; text-decoration: none;">github</a></td>
+<td align="right" style="padding: 5px 0; font-size: 13px; color: #8b949e;">@rubichandrap</td>
+</tr>
+<tr>
+<td style="padding: 5px 0; font-size: 14px;"><a href="https://www.linkedin.com/in/rubi-chandraputra-9aba65213/" style="color: #e8a33d; text-decoration: none;">linkedin</a></td>
+<td align="right" style="padding: 5px 0; font-size: 13px; color: #8b949e;">in/rubi-chandraputra-9aba65213</td>
+</tr>
+<tr>
+<td style="padding: 5px 0; font-size: 14px;"><a href="mailto:rubichandrap@gmail.com" style="color: #e8a33d; text-decoration: none;">email</a></td>
+<td align="right" style="padding: 5px 0; font-size: 13px; color: #8b949e;">rubichandrap@gmail.com</td>
+</tr>
+</table>
 
-<span style="color:#2f9e44">$</span> <span style="color:#1f6feb">cat ~/stack/*</span>
-<span style="color:#1f6feb">frontend</span>  React · Next.js · TypeScript · TailwindCSS · Vue
-<span style="color:#1f6feb">backend</span>   Node.js · NestJS · Express · Go · Python · gRPC · GraphQL
-<span style="color:#1f6feb">data</span>      PostgreSQL · MongoDB · RabbitMQ · Kafka
-<span style="color:#1f6feb">ops</span>       Docker · AWS · Vercel · CI/CD · microservices
+<details style="margin-top: 18px;">
+<summary style="cursor: pointer; font-family: ui-monospace, 'SF Mono', Consolas, monospace; font-size: 13px; color: #8b949e;">$ sudo make me a coffee</summary>
+<p style="margin: 8px 0 0; font-family: ui-monospace, 'SF Mono', Consolas, monospace; font-size: 13px; color: #f85149;">sudo: rubi is not in the sudoers file. This incident will be reported.</p>
+</details>
 
-────────────────────────────  CONTACT  ─────────────────────────────
+<p align="center" style="margin: 26px 0 6px; font-size: 13px; color: #8b949e;">I build, break, and ship things. Sometimes all at once.</p>
 
-<span style="color:#2f9e44">$</span> <span style="color:#1f6feb">ping contact</span>
-
-<span style="color:#1f6feb">website</span>  → https://rubichandrap.github.io/my-blog/
-<span style="color:#1f6feb">github</span>   → https://github.com/rubichandrap
-<span style="color:#1f6feb">linkedin</span> → https://www.linkedin.com/in/rubi-chandraputra-9aba65213/
-<span style="color:#1f6feb">email</span>    → rubichandrap@gmail.com
-
-<span style="color:#2f9e44">[✓] 4 hosts reachable</span>
-
-<span style="color:#2f9e44">$</span> <span style="color:#1f6feb">exit</span>
-Thanks for stopping by. I build, break, and ship things.
-Sometimes all at once.
-
-▊
-</pre>
+</div>
 
 </div>
