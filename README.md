@@ -1,75 +1,71 @@
 <div align="center">
 
 <pre>
-╭──────────────────────────────────────────────────────────╮
-│  ●  ●  ●            rubi@rubichandrap — zsh              │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│   Hey, I'm Rubi                                          │
-│   Software Engineer · Jakarta, Indonesia                 │
-│                                                          │
-╰──────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────╮
+│  ●  ●  ●            rubi@rubichandrap — zsh             │
+│  ── ubuntu on wsl2 · 82×30 · 256-color                  │
+├─────────────────────────────────────────────────────────┤
+│                                                         │
+│             ██████  ██   ██ ██████  ██████              │
+│             ██   ██ ██   ██ ██   ██   ██                │
+│             ██████  ██   ██ ██████    ██                │
+│             ██  ██  ██   ██ ██   ██   ██                │
+│             ██   ██ ██████  ██████  ██████              │
+│                                                         │
+│         software engineer · jakarta, indonesia          │
+│                                                         │
+╰─────────────────────────────────────────────────────────╯
 
 <span style="color:#2f9e44">$</span> <span style="color:#1f6feb">whoami</span>
-Software Engineer · Jakarta, Indonesia
+rubi — full-stack engineer, TypeScript-first.
 
-<span style="color:#2f9e44">$</span> <span style="color:#1f6feb">cat about.txt</span>
-<span style="color:#6e7781"># 5+ years full-stack. TypeScript-first.</span>
-I like clean code, smooth UIs, and systems that just work.
+<span style="color:#2f9e44">$</span> <span style="color:#1f6feb">cat ~/.bio</span>
+It depends.
+
+<span style="color:#2f9e44">$</span> <span style="color:#1f6feb">cat ~/about.txt</span>
+<span style="color:#6e7781"># 5+ years. web apps that survive contact with real users.</span>
+Frontends that feel fast, backends that stay up, and
+automation that does the boring work.
 
 ──────────────────────────  GITHUB STATS  ──────────────────────────
 
 <span style="color:#2f9e44">$</span> <span style="color:#1f6feb">./stats.sh</span>
-<span style="color:#6e7781"># live numbers, no external badges</span>
+<span style="color:#6e7781"># live numbers, no external badges — regenerated daily</span>
 
-<span style="color:#b58900">repos</span>     : 34   <span style="color:#b58900">stars</span>     :      12
-<span style="color:#b58900">followers</span> : 19   <span style="color:#b58900">following</span> :      16
-<span style="color:#b58900">pinned</span>    :  4   <span style="color:#b58900">code</span>      : ~2.7 MB
+<span style="color:#6e7781"># ── auto-stats:start ──</span>
+<span style="color:#b58900">repos</span>      : 36 (15 own)   <span style="color:#b58900">stars</span>     :    12
+<span style="color:#b58900">followers</span>  : 19            <span style="color:#b58900">following</span> :  16
 
-────────────────────────  TOP LANGUAGES  ───────────────────────────
+<span style="color:#2f9e44">$</span> <span style="color:#1f6feb">./langs.sh</span>
+<span style="color:#6e7781"># primary language across my own repos</span>
+TypeScript  <span style="color:#6f42c1">██████████████████████░░░░░░░░░░░░</span>   64%
+Go          <span style="color:#6f42c1">█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</span>   14%
+MDX         <span style="color:#6f42c1">██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</span>    7%
+Rust        <span style="color:#6f42c1">██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</span>    7%
+Blade       <span style="color:#6f42c1">██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</span>    7%
+<span style="color:#6e7781"># synced 2026-08-12 08:20 UTC — .github/workflows/update-stats.yml</span>
+<span style="color:#6e7781"># ── auto-stats:end ──</span>
 
-<span style="color:#2f9e44">$</span> <span style="color:#1f6feb">./langs.sh --by-bytes</span>
-<span style="color:#6e7781"># share of code across all repos</span>
+──────────────────────────  PROJECTS  ─────────────────────────────
 
-TypeScript  <span style="color:#6f42c1">████████████████░░░░░░░░░░░░░░░░░░</span>   46%
-HTML        <span style="color:#6f42c1">████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</span>   12%
-Blade       <span style="color:#6f42c1">████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</span>   11%
-PHP         <span style="color:#6f42c1">███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</span>   10%
-Less        <span style="color:#6f42c1">██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</span>    7%
-MDX         <span style="color:#6f42c1">█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</span>    4%
-JavaScript  <span style="color:#6f42c1">█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</span>    3%
-Go          <span style="color:#6f42c1">█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</span>    2%
-C#          <span style="color:#6f42c1">█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</span>    1%
-Rust        <span style="color:#6f42c1">█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</span>    1%
-<span style="color:#6e7781"># + CSS, SCSS, Astro, Shell, Dockerfile, Vue, Dart</span>
+<span style="color:#2f9e44">$</span> <span style="color:#1f6feb">ls -1 ~/projects</span>
+<span style="color:#1f6feb">territory-of-indonesia/</span>  <span style="color:#6e7781">Go · ★10</span>   Indonesia territory data from OSM boundaries
+<span style="color:#1f6feb">agentstd/</span>                <span style="color:#6e7781">TS</span>        write agent rules once, sync to .claude / .opencode
+<span style="color:#1f6feb">openclaw-teams-bridge/</span>   <span style="color:#6e7781">TS</span>        Teams ↔ OpenClaw bridge, no admin or bot registration
+<span style="color:#1f6feb">hermes-teams-bridge/</span>     <span style="color:#6e7781">TS</span>        Teams ↔ Hermes bridge
+<span style="color:#1f6feb">Poyo/</span>                    <span style="color:#6e7781">TS</span>        minimal React + .NET 10 MPA starter
+<span style="color:#1f6feb">bootcamp/</span>                <span style="color:#6e7781">MDX</span>       interactive dev mastery platform (Go · TS · more)
+
+<span style="color:#2f9e44">$</span> <span style="color:#1f6feb">sudo make me a coffee</span>
+<span style="color:#f85149">sudo: rubi is not in the sudoers file. This incident will be reported.</span>
 
 ──────────────────────────  TECH STACK  ────────────────────────────
 
-<span style="color:#2f9e44">$</span> <span style="color:#1f6feb">ls ~/stack</span>
-<span style="color:#b58900">frontend/</span>  <span style="color:#b58900">backend/</span>  <span style="color:#b58900">data/</span>  <span style="color:#b58900">devops/</span>  <span style="color:#b58900">web/</span>
-
-<span style="color:#2f9e44">$</span> <span style="color:#1f6feb">cat stack/frontend.txt</span>
-React · Next.js · TypeScript · TailwindCSS · Vue.js · Redux · Framer Motion
-
-<span style="color:#2f9e44">$</span> <span style="color:#1f6feb">cat stack/backend.txt</span>
-Node.js · NestJS · Express · Go · Python · gRPC · GraphQL · REST
-
-<span style="color:#2f9e44">$</span> <span style="color:#1f6feb">cat stack/data.txt</span>
-PostgreSQL · MongoDB · RabbitMQ · Kafka
-
-<span style="color:#2f9e44">$</span> <span style="color:#1f6feb">cat stack/devops.txt</span>
-Docker · Git · AWS · Vercel · CI/CD · Microservices
-
-<span style="color:#2f9e44">$</span> <span style="color:#1f6feb">cat stack/web.txt</span>
-OAuth · JWT · WebSockets
-
-──────────────────────────  TOOLS I USE  ───────────────────────────
-
-<span style="color:#2f9e44">$</span> <span style="color:#1f6feb">./tools --list</span>
-
-React        Next.js      NestJS       Express
-TypeScript   TailwindCSS  gRPC         Git
-RabbitMQ     Kafka        PostgreSQL   MongoDB
+<span style="color:#2f9e44">$</span> <span style="color:#1f6feb">cat ~/stack/*</span>
+<span style="color:#1f6feb">frontend</span>  React · Next.js · TypeScript · TailwindCSS · Vue
+<span style="color:#1f6feb">backend</span>   Node.js · NestJS · Express · Go · Python · gRPC · GraphQL
+<span style="color:#1f6feb">data</span>      PostgreSQL · MongoDB · RabbitMQ · Kafka
+<span style="color:#1f6feb">ops</span>       Docker · AWS · Vercel · CI/CD · microservices
 
 ────────────────────────────  CONTACT  ─────────────────────────────
 
