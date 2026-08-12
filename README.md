@@ -6,10 +6,10 @@
 
 <div style="max-width: 780px; margin: 0 auto; background: #0d1117; border: 1px solid #30363d; border-radius: 16px; padding: 26px 28px 18px; color: #e6edf3; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; text-align: left;">
 
-<p style="margin: 0; font-size: 16px; color: #e6edf3;">TypeScript-first full-stack engineer.</p>
-<p style="margin: 8px 0 0; font-size: 14px; color: #8b949e;">5+ years of web apps that survive contact with real users. Frontends that feel fast, backends that stay up, automation that does the boring work.</p>
+<p style="margin: 0; font-size: 16px; color: #e6edf3;">Software engineer in Jakarta. TypeScript-first, 5+ years in.</p>
+<p style="margin: 8px 0 0; font-size: 14px; color: #8b949e;">These days: Teams ↔ agent bridges, agent tooling, and a Go project on Indonesian territory data.</p>
 
-<h2 style="margin: 26px 0 10px; font-size: 13px; letter-spacing: 2px; color: #8b949e;"><span style="color: #3fb950;">●</span> STATS — live, no badges, auto-updated daily</h2>
+<h2 style="margin: 26px 0 10px; font-size: 13px; letter-spacing: 2px; color: #8b949e;"><span style="color: #3fb950;">●</span> STATS</h2>
 
 <table role="presentation" style="width: 100%; border-collapse: separate; border-spacing: 6px; margin: 0 -6px;">
 <!-- STATS:START -->
@@ -32,7 +32,7 @@
 <div style="font-size: 11px; letter-spacing: 1px; color: #8b949e;">FOLLOWING</div>
 </td>
 </tr>
-<!-- synced: 2026-08-12 08:30 UTC -->
+<!-- synced: 2026-08-12 08:36 UTC -->
 <!-- STATS:END -->
 </table>
 
