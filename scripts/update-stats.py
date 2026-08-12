@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Regenerate the stat cards in the profile README from the GitHub API.
+"""Regenerate the one-line stats in the profile README from the GitHub API.
 
 Stdlib only. Run by .github/workflows/update-stats.yml once a day.
 Prints STATS_CHANGED (README rewritten) or STATS_UNCHANGED (no diff).
@@ -24,16 +24,6 @@ def api(path: str):
         return json.load(resp)
 
 
-def card(num, label, sub=""):
-    s = ('<td align="center" style="width: 25%; background: #161b22; '
-         'border: 1px solid #30363d; border-radius: 10px; padding: 12px 6px;">\n'
-         f'<div style="font-size: 24px; font-weight: 800; color: #e6edf3; line-height: 1.2;">{num}</div>\n'
-         f'<div style="font-size: 11px; letter-spacing: 1px; color: #8b949e;">{label}</div>\n')
-    if sub:
-        s += f'<div style="font-size: 11px; color: #8b949e;">{sub}</div>\n'
-    return s + "</td>"
-
-
 def main() -> int:
     user = api(f"/users/{USER}")
 
@@ -52,12 +42,8 @@ def main() -> int:
     stars = sum(r["stargazers_count"] for r in repos)  # includes fork stars, like GitHub's profile total
 
     block = "\n".join([
-        "<tr>",
-        card(len(repos), "REPOS", f"{len(own)} own"),
-        card(stars, "STARS"),
-        card(user["followers"], "FOLLOWERS"),
-        card(user["following"], "FOLLOWING"),
-        "</tr>",
+        f"Public repos: {len(repos)} ({len(own)} own) · Stars: {stars} · "
+        f"Followers: {user['followers']} · Following: {user['following']}",
         f"<!-- synced: {datetime.now(timezone.utc):%Y-%m-%d %H:%M} UTC -->",
     ])
 
